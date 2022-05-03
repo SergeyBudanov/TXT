@@ -1,0 +1,12 @@
+Summary A short description of the problem, explicitly indicating the cause and type of error situation
+Project Name of the tested projec
+Component Name of the part or function of the product being tested
+Version The version on which the bug was found
+Severity The most common five-level system for grading the severity of a defect is: S1 (Blocker)S2(Critical)S3 (Major)S4 (Minor)S5 ( Trivial)
+Priority P1  (High)P2  (Medium)P3  (Low)
+Status bug workflow and life cycle
+Author Bug report creator
+Assigned To Name of the person assigned to resolve the issue
+Environment Information about the environment where the bug was found: operating system, service pack, for WEB testing - browser name and version, etc.
+Description Steps to Reproduce, Result, Expected Result
+Add-ons Attachment
