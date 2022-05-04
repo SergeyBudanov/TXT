@@ -6,5 +6,8 @@ Skils5  Structures of HTTP requests and responses
 Skils6 What is JSON, XML. Their structure
 Skils7 API testing via Postman (JS, API autotests)
 Skils8  Removing and reading logs from an external server
-Skils9 Sniffing http web traffic via Charles and Fiddler
+ Skils9 Sniffing http web traffic via Charles and Fiddler.......
+
+
+
 
